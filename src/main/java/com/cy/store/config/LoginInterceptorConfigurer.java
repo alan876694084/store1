@@ -45,5 +45,6 @@ public class LoginInterceptorConfigurer implements WebMvcConfigurer {
         //拦截/**，除了patterns
         //git wri
         //dsa
+        //hot-fix
     }
 }
